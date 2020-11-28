@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:messio/main.dart';
+import 'package:messio/main.dart' show MyApp;
 
 void main() {
   testWidgets('Checking if hello world shows up', (WidgetTester tester) async {
